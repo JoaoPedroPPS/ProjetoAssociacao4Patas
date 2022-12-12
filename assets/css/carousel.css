@@ -14,4 +14,8 @@
        float: right;
        margin-top: 12px;
     }
+
+    .image {
+        background-image: url('../img/dog-mobile.jpg');
+    }
 }
